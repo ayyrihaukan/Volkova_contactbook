@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">contactbook</string>
+    <string name="phone_number">+7 (495) 123-45-67</string>
+    <string name="email">contact@example.com</string>
+    <string name="email_subject">request</string>
+    <string name="office_label">our office</string>
+    <string name="msgPhone">there is no app for calls</string>
+    <string name="msgMail">there is no mail application</string>
+    <string name="msgMap">there is no app for maps</string>
+    <string name="msgContact">there is no application for sending</string>
+    <string name="chooserTitle">share a contact via...</string>
+    <string name="shareTextKey">contact:</string>
+    <string name="contactBook">contact book</string>
+    <string name="callMsg">call</string>
+    <string name="emailMsg">write an email</string>
+    <string name="mapMsg">show the office on the map</string>
+    <string name="contactMsg">contactMsg</string>
+</resources>
